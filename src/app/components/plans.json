@@ -1,0 +1,132 @@
+[
+  {
+    "ctg": "Logo Designing",
+    "basic": {
+      "price": "35",
+      "des": "The Basic package is designed for individuals or small businesses looking for a simple and clean logo design to establish their brand identity.",
+      "features": [
+        "One Logo Concept",
+        "Basic Color Pattle Selection ",
+        "High-resolution JPG and PNG files",
+        "Up to 2 rounds of revisions"
+      ],
+      "time": "5-7 Bussiness Days "
+    },
+    "pro": {
+      "price": "119",
+      "des": "The Pro package is perfect for businesses seeking a more comprehensive logo design with added customization and professional features.",
+      "features": [
+        "Two initial logo concepts",
+        "Custom color palette selection",
+        "High-resolution JPG, PNG, and vector (AI or EPS) files",
+        "Up to 4 rounds of revisions",
+        "Favicon design included",
+        "Social media profile logo resizing"
+      ],
+      "time": " 7-10 business days"
+    },
+    "premium": {
+      "price": "299",
+      "des": "The Premium package offers an all-inclusive logo design experience, catering to established businesses looking for a top-tier brand identity creation.",
+      "features": [
+        "Three initial logo concepts",
+        "Full color palette customization",
+        "High-resolution JPG, PNG, vector (AI or EPS), and PDF files",
+        "Limited revisions",
+        "Favicon and app icon design",
+        "Stationery design (business card, letterhead)",
+        "Brand style guide",
+        "Source file with layered PSD",
+        "Social media kit (profile and cover images)"
+      ],
+      "time": "10-14 business days"
+    }
+  },
+  {
+    "ctg": "Video Editing",
+    "basic": {
+      "price": "145",
+      "des": "The Basic Assembly Editing package is designed for individuals or businesses looking to create a rough cut of their film or video project.",
+      "features": [
+        "Assembly editing of raw footage",
+        "Arranging clips in chronological order",
+        "Basic transitions between shots",
+        "Simple audio synchronization",
+        "Basic color correction",
+        "Up to 2 rounds of revisions",
+        "Delivery in a standard video format"
+      ],
+      "time": "On Project Type"
+    },
+    "pro": {
+      "price": "195",
+      "des": "The Pro Assembly Editing package is suitable for businesses or filmmakers seeking a more refined assembly edit with added creativity and attention to detail.",
+      "features": [
+        "Assembly editing of raw footage",
+        "Chronological and thematic arrangement of clips",
+        "Advanced transitions and visual effects",
+        "Audio synchronization and basic sound editing",
+        "Color grading and correction",
+        "2 rounds of revisions with client feedback",
+        "Delivery in multiple video formats for various platforms"
+      ],
+      "time": "On Project Type"
+    },
+    "premium": {
+      "price": "395",
+      "des": "The Premium Assembly Editing package offers a comprehensive assembly edit with a focus on storytelling, advanced editing techniques, and high-quality visuals.",
+      "features": [
+        "Assembly editing of raw footage",
+        "Advanced shot selection and sequencing for storytelling",
+        "Custom transitions and visual effects",
+        "Custom transitions and visual effects",
+        "Audio synchronization, sound mixing, and enhancement",
+        "Audio synchronization, sound mixing, and enhancement",
+        "3 rounds of revisions with client feedback",
+        "Delivery in various video formats, resolutions, and aspect ratios",
+        "Advanced graphics and title integration"
+      ],
+      "time": "On Project Type"
+    }
+  },
+  {
+    "ctg": "Content Writing",
+    "basic": {
+      "price": "9",
+      "des": "The Basic Blog Writing package is designed for individuals or businesses looking to create simple and informative blog content.",
+      "features": [
+        "Upto 800 Words",
+        "Topic research and keyword integration",
+        "Basic formatting and structure",
+        "1 revision"
+      ],
+      "time": "1-3 Bussiness Days"
+    },
+    "pro": {
+      "price": "19",
+      "des": "The Pro Blog/Article Writing package is suitable for businesses seeking well-researched and engaging blog content.",
+      "features": [
+        "Upto 1200 Words",
+        "Comprehensive Topic research and keyword integration",
+        "Inclusions of relevant images/graphics",
+        "Intermediate formatting and structure",
+        "2 revision"
+      ],
+      "time": "3-5 Bussiness Days"
+    },
+    "premium": {
+      "price": "49",
+      "des": "The Premium Blog/Article Writing package offers in-depth, expert-level content creation for businesses aiming to establish thought leadership and drive engagement.",
+      "features": [
+        "Upto 2000 Words",
+        "Extensive Topic research and keyword integration",
+        "Custom Designed images/graphics",
+        "Advanced formatting and structure",
+        "SEO optimization and meta description",
+        "Expert Analysis",
+        "3 revision"
+      ],
+      "time": "5-7 Bussiness Days"
+    }
+  }
+]

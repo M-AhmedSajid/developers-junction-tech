@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Scrollbar Styles for Whole Webpage */
+  *html {
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: #8a2be2 rgba(138, 43, 226, 0.15);
+  }
+
+  *::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: rgba(138, 43, 226, 0.15);
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #8a2be2;
+  }
+
+  body {
+    scroll-behavior: smooth;
+    background-color: #fff;
+    overflow-x: hidden;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  a,
+  button {
+    @apply text-gray-900;
+  }
+
+  .btn-primary {
+    @apply rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-hover focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary duration-300;
+  }
+
+  .btn-sec {
+    @apply text-sm font-semibold leading-6 hover:text-primary duration-300;
+  }
+
+  .planCtg {
+    overflow: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .planCtg::-webkit-scrollbar {
+    display: none;
+  }
+
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+}

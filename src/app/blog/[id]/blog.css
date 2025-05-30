@@ -1,0 +1,43 @@
+.main-context h3 {
+  @apply text-2xl font-bold my-4;
+}
+.main-context h4 {
+  @apply text-xl font-bold mt-4 mb-3;
+}
+.main-context h5 {
+  @apply text-lg font-bold mt-4 mb-2;
+}
+.main-context ol{
+    @apply list-decimal my-5 pl-5;
+}
+.main-context ul{
+    @apply list-disc my-5 pl-5;
+}
+.main-context li{
+    @apply my-3;
+}
+.main-context pre{
+    @apply my-4 text-sm overflow-auto leading-7 p-4 bg-gray-200;
+    scrollbar-width: thin;
+}
+.main-context p{
+    @apply my-3;
+}
+.main-context table{
+    @apply w-full table-auto text-left my-8 border-collapse;
+}
+.main-context thead{
+    @apply bg-gray-100 rounded;
+}
+.main-context th{
+    @apply px-3 py-3 text-base;
+}
+.main-context tbody tr{
+    @apply border-b border-gray-200 last:border-b-0;
+}
+.main-context td{
+    @apply p-3;
+}
+.main-context img{
+    @apply mx-auto w-full md:px-20 rounded-lg my-6;
+}
