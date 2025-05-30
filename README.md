@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Developers Junction Tech 🌐
 
-## Getting Started
+This is the official source code for the **Developers Junction Tech** website: [https://www.devjunctiontech.com](https://www.devjunctiontech.com)  
+It showcases our services, client work, and company information. Built with modern tools for a responsive, fast, and professional web experience.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📌 Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Developers Junction Tech** offers services like:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Custom Web Development  
+- Mobile App Development  
+- ERP & CRM Solutions (e.g., Dynamics 365, Oracle)  
+- IT Consultation  
+- UI/UX Design  
+- Technical Support & Maintenance  
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This website reflects our services, portfolio, and includes a contact system for leads and inquiries.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ⚙️ Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Area          | Tools/Packages                          |
+|---------------|------------------------------------------|
+| Framework     | Next.js (React 18)                      |
+| Styling       | Tailwind CSS, AOS animations             |
+| Forms & Email | EmailJS                                  |
+| Backend/Auth  | JWT, bcryptjs                            |
+| Database      | MySQL (using `mysql2`)                   |
+| UI Components | Heroicons, Headless UI                   |
+| Notifications | react-hot-toast                          |
+| Images        | Sharp                                     |
+| Text Editor   | Jodit React Editor                        |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🔒 Note
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is **not open-source**.  
+The code is **private** and intended only for Developers Junction Tech’s internal use. Do not copy, reuse, or redistribute without permission.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+## 👨‍💻 Developed by
+
+**M. Ahmed Sajid**  
+Web Developer 
+🌐 [My Portfolio](https://ahmed-sajid.web.app/)
